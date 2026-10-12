@@ -1,4 +1,4 @@
-# Brazilian E-Commerce Data Analysis Project 🇧🇷
+# Oist-Business-inteligence-Analysis Project
 
 ## Project Overview
 
